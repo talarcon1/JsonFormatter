@@ -1,0 +1,2 @@
+C:\Users\Tim Alarcon\Desktop\JsonFormatterProj\JsonFormatter\obj\Debug\JsonFormatter.exe
+C:\Users\Tim Alarcon\Desktop\JsonFormatterProj\JsonFormatter\obj\Debug\JsonFormatter.pdb
